@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jakaria Hossain Sani</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+### Hi there 👋, my name is Jakaria Hossain Sani
+#### Web developer
+![Web developer](https://myaolcc.com/wp-content/uploads/2022/12/Considering-a-Coding-Bootcamp-Trends-to-Expect-in-2023-1.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafatsani36&label=Profile%20views&color=0e75b6&style=flat" alt="arafatsani36" /> </p>
 

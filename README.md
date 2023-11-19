@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafatsani36&label=Profile%20views&color=0e75b6&style=flat" alt="arafatsani36" /> </p>
 
-### ☄, About Me
+### ☄ About Me
 
 I am a passionate and dedicated junior web developer. My career goal is to continue growing and learning and make a meaningful contribution to the organization and the industry.
 

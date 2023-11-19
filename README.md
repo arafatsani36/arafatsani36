@@ -18,6 +18,7 @@ I am a passionate and dedicated junior web developer. My career goal is to conti
 
 ###
 
+### 🥤 Connect with me!
 <div align="flex ">
   <a href="https://www.facebook.com/profile.php?id=100090507447954(https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/35c92daa-07bf-4da8-2385-36495c032000/public) "> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMuCSb3a2f0mSSqvkkLgbfFB8XFEMc-32l7A&usqp=CAU" height="35" alt="facebook logo"/> 

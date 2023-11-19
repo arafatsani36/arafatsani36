@@ -7,7 +7,7 @@
 
 I am a passionate and dedicated junior web developer. My career goal is to continue growing and learning and make a meaningful contribution to the organization and the industry.
 
-Skills
+### 👨‍💻 Skills
 
 #### ☑ HTML 
 #### ☑ CSS  

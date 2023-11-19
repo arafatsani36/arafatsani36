@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafatsani36&label=Profile%20views&color=0e75b6&style=flat" alt="arafatsani36" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafatsani36" alt="arafatsani36" /></a> </p>
+#About Me
 
 I am a passionate and dedicated junior web developer. My career goal is to continue growing and learning and make a meaningful contribution to the organization and the industry.
 

@@ -32,7 +32,7 @@ I am a passionate and dedicated junior web developer. My career goal is to conti
 <br clear="both">
   
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatsani36&show_icons=true&locale=en&layout=compact" alt="arafatsani36" /></p>
 

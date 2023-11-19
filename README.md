@@ -18,6 +18,16 @@ I am a passionate and dedicated junior web developer. My career goal is to conti
 
 ###
 
+<br clear="both">
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatsani36&show_icons=true&locale=en&layout=compact" alt="arafatsani36" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafatsani36&show_icons=true&locale=en" alt="arafatsani36" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafatsani36&" alt="arafatsani36" /></p>
+
+###
+
 ### 🥤 Connect with me!
 <div align="flex ">
   <a href="https://www.facebook.com/profile.php?id=100090507447954(https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/35c92daa-07bf-4da8-2385-36495c032000/public) "> 
@@ -28,14 +38,5 @@ I am a passionate and dedicated junior web developer. My career goal is to conti
 </div>
 
 ###
+📩 jakariahossainsani@gmail.com
 
-<br clear="both">
-  
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatsani36&show_icons=true&locale=en&layout=compact" alt="arafatsani36" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafatsani36&show_icons=true&locale=en" alt="arafatsani36" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafatsani36&" alt="arafatsani36" /></p>

@@ -41,9 +41,3 @@ I am a passionate and dedicated junior web developer. My career goal is to conti
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafatsani36&show_icons=true&locale=en" alt="arafatsani36" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafatsani36&" alt="arafatsani36" /></p>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###

@@ -10,7 +10,7 @@ I am a passionate and dedicated junior web developer. My career goal is to conti
 ### 👨‍💻 Skills
 
   ☑ HTML/ CSS/ Bootstrap/ Tailwind CSS/ Javascript/ React JS
-  
+  </br>
   ☑ Typescript 
   ☑ Next.JS  
   ☑ Firebase Authentication  
